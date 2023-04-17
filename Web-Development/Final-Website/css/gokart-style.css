@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo:400,700');
+
+body {
+  font-family:'Arimo' !important;
+  background-color: #444;
+  color: white;
+}
+.header{
+    display: inline;
+}
+.image, .image1{
+    width: 100%;
+}
+
+img{
+    width: 100%;
+}
+
+.header{
+    display: block;
+    text-align: center;
+    background-color: #333;
+    padding: .5rem 0;
+}
+
+p{
+    font-size: 1rem;
+    text-align: center;
+    padding: .5rem;
+}
+
+hr{
+    border: none;
+    height: 2px;
+    background-color: white;
+}
+.mufflers, .brake{
+     font-size: 14px;
+    background-color: #777;
+    margin: 24px 14px;
+    padding: 2px;
+}
+
+form{
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+h2{
+    font-size: 1.5rem
+}
+
+.button{
+    background-color: #888;
+    margin: 14px;
+    padding: 8px;
+    text-align: center;
+}
+
+input[type="submit"], input[type="reset"] {
+   color: #777;
+    width: 30%; 
+    height: 100%;
+    padding: 10px;
+    border: 0;
+}
+
+
+/*------navigation bar--------*/
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+    min-width: 347px;
+    text-align: center;
+}
+
+.topnav a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav .icon {
+    display: none;
+}
+
+.active {
+   background-color: #444;
+}
+/*------navigation bar--------*/
+
+/* Write tablet / desktop styles here */
+@media only screen and (min-width:640px){
+    #wrapper {
+        text-align: center; 
+        display: flex;
+        
+    }
+    
+    .image1{
+        width: 80%;
+    }
+}

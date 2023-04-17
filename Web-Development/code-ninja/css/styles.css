@@ -1,0 +1,109 @@
+/* Import the fonts from Google */
+@import url('https://fonts.googleapis.com/css?family=Arimo:400,700');
+
+
+/* Set the body font family as Arimo */
+body {
+  font-family:'Arimo' !important;
+  background-color: #00994C;
+  color: white;
+}
+
+img {
+	padding: 0 25%;
+	display: block;
+	background-color: white;
+	height: 50%;
+	width: 50%;
+
+}
+	
+
+
+h1 {
+	text-align: center;
+	text-shadow: -1px -1px 1px black;
+}
+h2{
+	text-shadow: -1px -1px 1px black;
+}
+.info{
+	background-color: #4a4a4a;
+	margin:0;
+	padding: 10px 10px;
+}
+
+.footer{
+	background-color: #00884C;
+	margin: 0;
+	padding: 5px 10px;
+}
+
+.enrollment{
+	margin:0;
+	padding: 10px 10px;
+}
+
+a{
+	background-color: #386385;
+	padding: 20px;
+	display: block;
+	text-align: center;
+}
+/* Write your mobile styles here */
+
+
+
+/* Write tablet / desktop styles here */
+@media only screen and (min-width:640px){
+
+/* Put all your desktop styles below this line -- inside of the media query */
+
+img {
+	padding: 0 40%;
+	display: block;
+	background-color: white;
+	height: auto;
+	width: 20%;
+}
+
+
+.info{
+	overflow: hidden;
+	height: 100%;
+	width: 100%;
+	padding: 5px 25px;
+}
+.block{
+	background-color: #4a4a4a; 
+	float:left;
+	display: inline-block;
+	width: 33.33%;
+	margin: 0 auto;
+}
+.enroll{
+	clear: left;
+	height: 100%;
+	width: 100%;
+
+}
+.enrollment{
+	width: 50%;
+	float: left;
+	padding: 25px;
+	display: inline-block;
+}
+a{
+	background-color: #386385;
+	padding: 20px;
+	display: inline-block;
+	text-align: center;
+	margin: 5rem 0;
+	width: 30%
+}
+.footer{			
+	top: 100%;
+	width: 100%;
+	text-align: center;
+	padding: 10px 0;
+}

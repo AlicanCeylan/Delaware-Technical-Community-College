@@ -1,0 +1,9 @@
+E:\Chapter 4\HurricaneGUI\HurricaneGUI\bin\Debug\HurricaneGUI.exe.config
+E:\Chapter 4\HurricaneGUI\HurricaneGUI\bin\Debug\HurricaneGUI.exe
+E:\Chapter 4\HurricaneGUI\HurricaneGUI\bin\Debug\HurricaneGUI.pdb
+E:\Chapter 4\HurricaneGUI\HurricaneGUI\obj\Debug\HurricaneGUI.csprojResolveAssemblyReference.cache
+E:\Chapter 4\HurricaneGUI\HurricaneGUI\obj\Debug\HurricaneGUI.Form1.resources
+E:\Chapter 4\HurricaneGUI\HurricaneGUI\obj\Debug\HurricaneGUI.Properties.Resources.resources
+E:\Chapter 4\HurricaneGUI\HurricaneGUI\obj\Debug\HurricaneGUI.csproj.GenerateResource.Cache
+E:\Chapter 4\HurricaneGUI\HurricaneGUI\obj\Debug\HurricaneGUI.exe
+E:\Chapter 4\HurricaneGUI\HurricaneGUI\obj\Debug\HurricaneGUI.pdb

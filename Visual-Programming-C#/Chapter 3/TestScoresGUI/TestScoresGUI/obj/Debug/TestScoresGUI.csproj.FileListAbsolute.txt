@@ -1,0 +1,18 @@
+H:\DTCC\Visual Programming\Labs\Chapter 3\TestScoresGUI\TestScoresGUI\bin\Debug\TestScoresGUI.exe.config
+H:\DTCC\Visual Programming\Labs\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.csprojResolveAssemblyReference.cache
+H:\DTCC\Visual Programming\Labs\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.Form1.resources
+H:\DTCC\Visual Programming\Labs\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.Properties.Resources.resources
+H:\DTCC\Visual Programming\Labs\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.csproj.GenerateResource.Cache
+H:\DTCC\Visual Programming\Labs\Chapter 3\TestScoresGUI\TestScoresGUI\bin\Debug\TestScoresGUI.exe
+H:\DTCC\Visual Programming\Labs\Chapter 3\TestScoresGUI\TestScoresGUI\bin\Debug\TestScoresGUI.pdb
+H:\DTCC\Visual Programming\Labs\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.exe
+H:\DTCC\Visual Programming\Labs\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.pdb
+E:\Chapter 3\TestScoresGUI\TestScoresGUI\bin\Debug\TestScoresGUI.exe.config
+E:\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.exe
+E:\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.pdb
+E:\Chapter 3\TestScoresGUI\TestScoresGUI\bin\Debug\TestScoresGUI.exe
+E:\Chapter 3\TestScoresGUI\TestScoresGUI\bin\Debug\TestScoresGUI.pdb
+E:\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.csprojResolveAssemblyReference.cache
+E:\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.Form1.resources
+E:\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.Properties.Resources.resources
+E:\Chapter 3\TestScoresGUI\TestScoresGUI\obj\Debug\TestScoresGUI.csproj.GenerateResource.Cache

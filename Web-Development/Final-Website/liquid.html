@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/liquid-style.css">
+	<title>Mr. Smith's Muffler Shop</title>
+</head>
+<body>
+    <div class="topnav">
+      <a href="index.html">Home</a>
+      <a class="active" href="products.html">Products</a>
+      <a href="contact.html">Contact</a>
+      <a href="services.html">Services</a>
+      <img src="pictures/mrSMS.png">
+    </div>
+    
+    
+    <form>
+    <div id="wrapper">
+        <div id="oil">
+        <p class="header">ENGINE OIL</p>
+        <img src="pictures/oil.png" class="image">
+        
+        <select required id="viscosity" class="oil">
+                    <option value = "default" disabled selected>choose your oil's cold viscosity</option>
+                    <option value="0w"> 0W</option>
+                    <option value="5w"> 5W</option>
+                    <option value="10w"> 10W</option>
+                    <option value="15w">15W</option>
+        </select>
+        <select required id="viscosity-hot" class="oil">
+                <option value = "default" disabled selected>choose your oil's hot viscosity</option>
+                <option value="10"> 10</option>
+                <option value="20"> 20</option>
+                <option value="30"> 30</option>
+                <option value="40">40</option>
+                <option value="50">50</option>
+                <option value="60">60</option>
+                </select>
+         <select required id="Volume" class="oil">
+                <option value = "default" disabled selected>choose the amount of oil </option>
+                <option value="1qt"> 1 quart ($5.78)</option>
+                <option value="5qt"> 5 quarts ($24.90) </option>
+                <option value="1g"> 1 gallon ($20.25) </option>
+                <option value="5g">5 gallons ($60.80) </option>
+                <option value="55g">55 gallon barrel ($375.00) </option>
+            </select>
+        </div>
+        <div id="brake">
+            <p class="header">BRAKE FLUID</p>
+            <img src="http://www.stp.com/sites/default/files/STP_Heavy_Duty_Brake_Fluid_Dot3_both_1.3_0.png" class="image">
+            <select required id="Volume" class="oil">
+                <option value = "default" disabled selected>Choose the type of brake fluid </option>
+                <option value="1qt"> DOT 3 </option>
+                <option value="5qt"> DOT 4  </option>
+                <option value="1g"> DOT 5 </option>
+            </select>
+             <select required id="Volume" class="oil">
+                <option value = "default" disabled selected>Choose the amount of brake fluid </option>
+                <option value="12oz"> 12 oz ($2.44)</option>
+                <option value="32oz"> 32 oz ($6.38)</option>
+                <option value="1g"> 1 gallon ($14.67) </option>
+            </select>
+        </div>
+        </div>
+        <div class="button">   
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset">
+        </div> 
+        </form>
+</body>
+</html>

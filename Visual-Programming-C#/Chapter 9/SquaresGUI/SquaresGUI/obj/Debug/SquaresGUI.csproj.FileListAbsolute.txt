@@ -1,0 +1,18 @@
+H:\DTCC\Visual Programming\Labs\Chapter 9\SquaresGUI\SquaresGUI\bin\Debug\SquaresGUI.exe.config
+H:\DTCC\Visual Programming\Labs\Chapter 9\SquaresGUI\SquaresGUI\bin\Debug\SquaresGUI.exe
+H:\DTCC\Visual Programming\Labs\Chapter 9\SquaresGUI\SquaresGUI\bin\Debug\SquaresGUI.pdb
+H:\DTCC\Visual Programming\Labs\Chapter 9\SquaresGUI\SquaresGUI\obj\Debug\SquaresGUI.csprojResolveAssemblyReference.cache
+H:\DTCC\Visual Programming\Labs\Chapter 9\SquaresGUI\SquaresGUI\obj\Debug\SquaresGUI.Form1.resources
+H:\DTCC\Visual Programming\Labs\Chapter 9\SquaresGUI\SquaresGUI\obj\Debug\SquaresGUI.Properties.Resources.resources
+H:\DTCC\Visual Programming\Labs\Chapter 9\SquaresGUI\SquaresGUI\obj\Debug\SquaresGUI.csproj.GenerateResource.Cache
+H:\DTCC\Visual Programming\Labs\Chapter 9\SquaresGUI\SquaresGUI\obj\Debug\SquaresGUI.exe
+H:\DTCC\Visual Programming\Labs\Chapter 9\SquaresGUI\SquaresGUI\obj\Debug\SquaresGUI.pdb
+E:\Chapter 9\SquaresGUI\SquaresGUI\bin\Debug\SquaresGUI.exe.config
+E:\Chapter 9\SquaresGUI\SquaresGUI\obj\Debug\SquaresGUI.exe
+E:\Chapter 9\SquaresGUI\SquaresGUI\obj\Debug\SquaresGUI.pdb
+E:\Chapter 9\SquaresGUI\SquaresGUI\bin\Debug\SquaresGUI.exe
+E:\Chapter 9\SquaresGUI\SquaresGUI\bin\Debug\SquaresGUI.pdb
+E:\Chapter 9\SquaresGUI\SquaresGUI\obj\Debug\SquaresGUI.csprojResolveAssemblyReference.cache
+E:\Chapter 9\SquaresGUI\SquaresGUI\obj\Debug\SquaresGUI.Form1.resources
+E:\Chapter 9\SquaresGUI\SquaresGUI\obj\Debug\SquaresGUI.Properties.Resources.resources
+E:\Chapter 9\SquaresGUI\SquaresGUI\obj\Debug\SquaresGUI.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+E:\Chapter 14\InventoryRecordsGUI\InventoryRecordsGUI\bin\Debug\InventoryRecordsGUI.exe.config
+E:\Chapter 14\InventoryRecordsGUI\InventoryRecordsGUI\bin\Debug\InventoryRecordsGUI.exe
+E:\Chapter 14\InventoryRecordsGUI\InventoryRecordsGUI\bin\Debug\InventoryRecordsGUI.pdb
+E:\Chapter 14\InventoryRecordsGUI\InventoryRecordsGUI\obj\Debug\InventoryRecordsGUI.csprojResolveAssemblyReference.cache
+E:\Chapter 14\InventoryRecordsGUI\InventoryRecordsGUI\obj\Debug\InventoryRecordsGUI.Form1.resources
+E:\Chapter 14\InventoryRecordsGUI\InventoryRecordsGUI\obj\Debug\InventoryRecordsGUI.Form2.resources
+E:\Chapter 14\InventoryRecordsGUI\InventoryRecordsGUI\obj\Debug\InventoryRecordsGUI.Form3.resources
+E:\Chapter 14\InventoryRecordsGUI\InventoryRecordsGUI\obj\Debug\InventoryRecordsGUI.Properties.Resources.resources
+E:\Chapter 14\InventoryRecordsGUI\InventoryRecordsGUI\obj\Debug\InventoryRecordsGUI.csproj.GenerateResource.Cache
+E:\Chapter 14\InventoryRecordsGUI\InventoryRecordsGUI\obj\Debug\InventoryRecordsGUI.exe
+E:\Chapter 14\InventoryRecordsGUI\InventoryRecordsGUI\obj\Debug\InventoryRecordsGUI.pdb

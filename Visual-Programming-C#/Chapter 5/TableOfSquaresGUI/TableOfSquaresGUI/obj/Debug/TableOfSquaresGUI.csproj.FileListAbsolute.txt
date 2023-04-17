@@ -1,0 +1,16 @@
+F:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\bin\Debug\TableOfSquaresGUI.exe.config
+F:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.Form1.resources
+F:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.Properties.Resources.resources
+F:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.csproj.GenerateResource.Cache
+F:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\bin\Debug\TableOfSquaresGUI.exe
+F:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\bin\Debug\TableOfSquaresGUI.pdb
+F:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.exe
+F:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.pdb
+E:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\bin\Debug\TableOfSquaresGUI.exe.config
+E:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.exe
+E:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.pdb
+E:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\bin\Debug\TableOfSquaresGUI.exe
+E:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\bin\Debug\TableOfSquaresGUI.pdb
+E:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.Form1.resources
+E:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.Properties.Resources.resources
+E:\Chapter 5\TableOfSquaresGUI\TableOfSquaresGUI\obj\Debug\TableOfSquaresGUI.csproj.GenerateResource.Cache

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/muffler-style.css">
+	<title>Mr. Smith's Muffler Shop</title>
+</head>
+<body>
+    <div class="topnav">
+        <a href="index.html">Home</a>
+        <a class="active" href="products.html">Products</a>
+        <a href="contact.html">Contact</a>
+        <a href="services.html">Services</a>
+        <img src="pictures/mrSMS.png">
+    </div>
+   
+    <div id="wrapper">
+    <div id="form">
+    <img src="https://s-media-cache-ak0.pinimg.com/originals/43/b5/1a/43b51aabb1806b796a5c030c498c18df.jpg">
+        <form>  
+            <label for="Year">Year <span>*</span> <br> </label>
+            <input required id="year" type="text" placeholder ="Year"/><br>
+            <label for="make">Make <span>*</span> <br> </label>
+            <input required id="make" type="text" placeholder ="Make"/> <br>
+            <label for="model">Model <span>*</span> <br> </label>
+            <input required id="model" type="text" placeholder ="Model"/> <br>
+            <select required id="state">
+                <option value = "default" disabled selected>choose a brake model</option>
+                <option value="BM">Base model ($24.99)</option>
+                <option value="AM">Advanced model ($59.99)</option>
+                <option value="PM">Premium model ($110.99)</option>
+                <option value="PeM">Performance model ($149.99)</option>
+            </select>
+            <input type="submit" value="Submit">
+            <input type="reset" value="Reset">
+        </form>
+    </div>   
+    
+    <div id="muffler">
+        <hr>
+        <h1>BASE MODEL</h1>
+        <p>THis is just an OEM installation of brakes</p>
+        <hr>
+        
+        <h1>ADVANCED MODEL</h1>
+        <p>The advance model is an upgrade from the base model, giving your car a little better stopping power.</p>
+        <hr>
+        
+        <h1>PREMIUM MODEL</h1>
+        <p>The premium model includes slotted brake rotors and ceramic pads for very good stopping power.</p>
+        <hr>
+        
+        <h1>PERFORMANCE MODEL</h1>
+        <p>The performance model includes the same stuff as the premium model, plus a second set of calipers connect to a hydraulic E-brake for those nasty skids.</p>
+        <hr>
+    </div>
+    </div>
+</body>
+</html>

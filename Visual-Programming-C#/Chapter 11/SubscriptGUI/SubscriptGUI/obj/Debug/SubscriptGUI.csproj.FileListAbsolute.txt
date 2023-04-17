@@ -1,0 +1,9 @@
+E:\Chapter 11\SubscriptGUI\SubscriptGUI\bin\Debug\SubscriptGUI.exe.config
+E:\Chapter 11\SubscriptGUI\SubscriptGUI\bin\Debug\SubscriptGUI.exe
+E:\Chapter 11\SubscriptGUI\SubscriptGUI\bin\Debug\SubscriptGUI.pdb
+E:\Chapter 11\SubscriptGUI\SubscriptGUI\obj\Debug\SubscriptGUI.csprojResolveAssemblyReference.cache
+E:\Chapter 11\SubscriptGUI\SubscriptGUI\obj\Debug\SubscriptGUI.Form1.resources
+E:\Chapter 11\SubscriptGUI\SubscriptGUI\obj\Debug\SubscriptGUI.Properties.Resources.resources
+E:\Chapter 11\SubscriptGUI\SubscriptGUI\obj\Debug\SubscriptGUI.csproj.GenerateResource.Cache
+E:\Chapter 11\SubscriptGUI\SubscriptGUI\obj\Debug\SubscriptGUI.exe
+E:\Chapter 11\SubscriptGUI\SubscriptGUI\obj\Debug\SubscriptGUI.pdb

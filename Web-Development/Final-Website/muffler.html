@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/muffler-style.css">
+	<title>Mr. Smith's Muffler Shop</title>
+</head>
+<body>
+    <div class="topnav">
+      <a href="index.html">Home</a>
+      <a class="active" href="products.html">Products</a>
+      <a href="contact.html">Contact</a>
+      <a href="services.html">Services</a>
+        <img src="pictures/mrSMS.png">
+    </div>
+   
+    <div id="wrapper">
+    <div id="form">
+    <img src="pictures/hkr_exhaustsystmkit.png">
+        <form>  
+            <label for="Year">Year <span>*</span> <br> </label>
+            <input required id="year" type="text" placeholder ="Year"/><br>
+            <label for="make">Make <span>*</span> <br> </label>
+            <input required id="make" type="text" placeholder ="Make"/> <br>
+            <label for="model">Model <span>*</span> <br> </label>
+            <input required id="model" type="text" placeholder ="Model"/>
+            <select required class="model">
+                <option value = "default" disabled selected>choose a muffler</option>
+                <option value="BM">Base model ($99.99)</option>
+                <option value="AM">Advanced model ($189.99)</option>
+                <option value="PM">Premium model ($298.99)</option>
+                <option value="PeM">Performance model ($599.99)</option>
+            </select>
+            <input type="submit" value="Send">
+            <input type="reset" value="Reset">
+        </form>
+    </div>
+    
+    <div id="muffler">
+        <hr>
+        <h1>BASE MODEL</h1>
+        <p>The base model is just an upgrade from the OEM muffler with a deeper sound.</p>
+        <hr>
+        
+        <h1>ADVANCED MODEL</h1>
+        <p>The advance model is an upgrade from the base model, making your car sound mean and gives a little performance boost</p>
+        <hr>
+        
+        <h1>PREMIUM MODEL</h1>
+        <p>This is a whole new exhaust system that increases performance and gives your car a nice roar</p>
+        <hr>
+        
+        <h1>PERFORMANCE MODEL</h1>
+        <p>This is a whole new exhaust system meant to increase your cars performance and make it sound like a true bald eagle machine.</p>
+        <hr>
+    </div>
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,9 @@
+E:\Chapter 11\SquareRootGUI\SquareRootGUI\bin\Debug\SquareRootGUI.exe.config
+E:\Chapter 11\SquareRootGUI\SquareRootGUI\bin\Debug\SquareRootGUI.exe
+E:\Chapter 11\SquareRootGUI\SquareRootGUI\bin\Debug\SquareRootGUI.pdb
+E:\Chapter 11\SquareRootGUI\SquareRootGUI\obj\Debug\SquareRootGUI.csprojResolveAssemblyReference.cache
+E:\Chapter 11\SquareRootGUI\SquareRootGUI\obj\Debug\SquareRootGUI.Form1.resources
+E:\Chapter 11\SquareRootGUI\SquareRootGUI\obj\Debug\SquareRootGUI.Properties.Resources.resources
+E:\Chapter 11\SquareRootGUI\SquareRootGUI\obj\Debug\SquareRootGUI.csproj.GenerateResource.Cache
+E:\Chapter 11\SquareRootGUI\SquareRootGUI\obj\Debug\SquareRootGUI.exe
+E:\Chapter 11\SquareRootGUI\SquareRootGUI\obj\Debug\SquareRootGUI.pdb
